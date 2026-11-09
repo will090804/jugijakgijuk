@@ -1,0 +1,10 @@
+{
+  "description": "Pesan tiket kereta, pilih jadwal dan kursi, lalu pantau pembayaran serta riwayat. Petugas dapat memverifikasi transaksi dan mengelola data perjalanan.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
